@@ -57,8 +57,8 @@ This is an example of ordered and nested List -
 
 ### Paragraphs
 
-This is a paragraph  
-This has soft breaks inserted with two spaces  
+This is a paragraph.  
+This has soft breaks inserted with two spaces.  
 at the end of each line
 
 ### Tables
@@ -107,7 +107,7 @@ at the end of each line
 * :shipit:
 
 ### StrikeThrough
-~Striked text~
+~~Striked text~~
 
 ### mentions
 @akshaygrao77
