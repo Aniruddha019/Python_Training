@@ -15,3 +15,4 @@ All Files related to Python Training
      - Copy the generated Token, it will be something like ```ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta```
 - Install Jupyter Notebook - [Installation instructions](https://medium.com/@kswalawage/install-python-and-jupyter-notebook-to-windows-10-64-bit-66db782e1d02)
 - Install Anaconda (Optional)
+- 
