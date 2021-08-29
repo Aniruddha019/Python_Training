@@ -29,10 +29,6 @@ bitwiseXOR              = 1 ^ 2             # Binary Exclusive OR ie XOR = 01 ^ 
 leftShift               = 7 << 1            # Binary 7 ie 111 becomes 1110 ie 14. Same as multiplying x by 2**y = 7 * (2 ** 1)
 rightShift              = 4 >> 1            # Binary 2 ie 100 becomes 10 ie 2. Same as dividing x by 2**y = 4 // (2 ** 1)
 
-# Note
-# 1. Two's complement: Write the number in binary. Invert the digits. Add one to it.
-# 2. Negative Numbers are represented as 2's complement in computers.
-# 3. Python represents a binary number with infinite series
 
 # Ternary Operator
 print('{0} is {1} Prime.'.format(13, '' if 13 else 'NOT'))
@@ -70,3 +66,21 @@ assignment              >>= 2               # Right Shifts and Assign
 # Print the result
 print("Result\t:", increment)
 print("AA < AB:", "AA" < "AB")
+
+"""
+Operators	Meaning
+()	            Parentheses
+**	            Exponent
++x, -x, ~x	    Unary plus, Unary minus, Bitwise NOT
+*, /, //, %	    Multiplication, Division, Floor division, Modulus
++, -	        Addition, Subtraction
+<<, >>	        Bitwise shift operators
+&	            Bitwise AND
+^	            Bitwise XOR
+|	            Bitwise OR
+==, !=, >, >=, <, <=, is, is not, in, not in	Comparisons, Identity, Membership operators
+not	            Logical NOT
+and	            Logical AND
+or	            Logical OR
+"""
+
