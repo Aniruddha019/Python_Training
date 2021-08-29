@@ -10,3 +10,13 @@ print("Printing a Number\t: %d" % variable_integer)
 print("Printing a Decimal\t: %f" % variable_float)
 print("Multiple Formats\t: %s, %d, %f" % (variable_string, variable_integer, variable_float))
 print("Multiple Formats\t: %s, %d, %f" % (variable_string, variable_integer, variable_float))
+
+a = 6
+b = 2
+x = 3
+
+
+c = a+x
+
+
+print("Output : ",c)

@@ -1,7 +1,7 @@
 # Description: Variables in Python
 
 variable = 1
-variableShouldStartWithLowerCase = 2
+variable_should_start_with_lower_case = 2
 _variableCanStartWithAnUnderscoreOrAnAlphabet = 3
 variableCannotStartWithANumber = 4
 variableCanStoreStringAlso = "String Content"
